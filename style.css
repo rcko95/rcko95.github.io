@@ -52,7 +52,7 @@ ul { list-style-type: none; }
 /* Header */
 
 .header {
-    background: url('https://github.com/rcko95/rcko95.github.io/blob/main/img1.jpg') no-repeat center center/cover;
+    background: url('https://github.com/rcko95/rcko95.github.io/blob/main/img1.jpg?raw=true') no-repeat center center/cover;
     height: 93.9vh;
 }
 .header .header_content {
