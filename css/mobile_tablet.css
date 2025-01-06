@@ -1,0 +1,31 @@
+.header_0 { font-size: 4rem; }
+.header_1 { line-height: 4rem; font-size: 2.5rem; }
+
+/* Navbar */
+
+.navbar { flex-direction: column; align-items: center; }
+.navbar ul { flex-direction: column; }
+.navbar ul li { margin-bottom: 1.1rem;}
+.logo_title { margin-bottom: 1.2rem; }
+
+/* Header */
+
+.cta_catch { font-size: 1.1rem; text-align: center; padding: 0 0.2rem; }
+
+/* Localisation */
+
+.location_section_top_text { font-size: 1.2rem; }
+.locations { display: block; }
+
+
+/*  About US */
+
+.about_us .about_us_img { display: none; }
+
+/* Section Contact */
+
+.contact .contact_form label { display: inline-block; text-align: left; width: 100%; }
+.contact_form input, 
+.contact .contact_form textarea { 
+    width: 100%;
+ } 
